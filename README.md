@@ -1,7 +1,7 @@
 # AI-Assistant_JARVIS
-Like the One from Marvel's Iron Man Movie
+### Like the One from Marvel's Iron Man Movie
 
-Works on different commands like:
+#### Works on different commands like:
 
 - Jarvis What is current time
 - Jarvis What is date
