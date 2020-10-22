@@ -14,4 +14,5 @@
 - Jarvis tell me CPU useage and Battery percentage
 - Jarvis remember me
 - Jarvis logout/shutdown/restart system
+- Jarvis go offline 
 
